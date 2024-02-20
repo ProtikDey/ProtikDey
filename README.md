@@ -1,7 +1,7 @@
 # 💫 About Me:
-                             Hi there 👋, Welcome to my GitHub page
+<h2 align="center"> Hi there 👋, Welcome to my GitHub page </h2>
 
-🔭 I'm Protik, currently working as SWE at Kona Software Lab Limited<br>
+🔭 I'm Protik, currently working as a Software Engineer at Kona Software Lab Limited<br>
 
 
 ## 🌐 Socials:
